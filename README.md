@@ -1,2 +1,2 @@
 # NewRepo
-hi
+my new hi
